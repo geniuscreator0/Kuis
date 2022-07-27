@@ -1,4 +1,3 @@
-
 var timeLimit =time;
  document.getElementById('timelimit').innerHTML ="you'll have  "+timeLimit+" second to answer each question.";
 const section = document.getElementById('qna');
@@ -220,8 +219,3 @@ startQuizBtn.addEventListener("click", ()=>{
     quizBox.classList.add("show");
     nextQuestion();
 })
-
-
-</script>
-</body>
-</html>'));
