@@ -10,3 +10,15 @@ var time=60;myApp=[{     question:'&male; 30 thn, keluhan bercak putih bersisik 
 {     question:'Pertanyaan',     options:['Option1','Option2','Option3','Obtion4','Option5'],     answer:0 }]
 
 
+Seorang perempuan berusia 30 tahun datang dengan keluhan gatal pada sela jari tangan
+kanan sejak 2 minggu yang lalu dan semakin lama semakin memberat. Pada pemeriksaan
+didapatkan lesi eritema disertai skuama. Pada pemeriksaan penunjang KOH didapatkan
+gambaran double contour hifa. Apakah media kultur yang dapat dilakukan untuk
+menegakkan diagnosis tersebut?
+A. Thayer-Martin media
+B. Modified Thayer-Martin
+C. Subouraud dextrose agar
+D. Chocolate agar
+E. Triptic soy agar
+
+Seorang anak laki-laki usia 17 tahun datang ke dokter dengan keluhan terdapat sisik putih keabuan di kulit kepala sejak sekitar 1 bulan yang lalu, disertai gatal, rambut rapuh dan mudah patah. Pada pemeriksaan dermatologis di dapatkan lesi eritema minimal, skuama halus (+), putih keabuan, xerosis area vertex (+). Apakah tatalaksana yang dapat diberikan pada kasus tersebut? a. Ketokonazol tablet 200 mg/hari b. Griseofulvin tablet 500 mg/hari c. Krim mikonazol 2% d. Krim nistatin e. Krim ketokonazol 2%  29. Seorang perempuan usia 25 tahun dating ke dokter dengan keluhan muncul bercak kemerahan di sekitar wajah sejak 2 minggu yang lalu. Bercak tersebut tampak merah dan terasa gatal. Pada pemeriksaan fisik didapatkan adanya makula eritema, multiple di bagian wajah, dengan tepi yang meninggi dan tertutup skuama halus. Pemeriksaan KOH (+) adanya hifa panjang dan bersepta. Apakah diagnosis pasien tersebut? a. Tinea korporis b. Dermatitis atopic c. Tinea fasialisMorbus Hansen d. Candidasis kuti  30. Seorang laki-laki usia 25 tahun datang ke puskesmas dengan keluhan gatal pada bagian dagu. Pada pemeriksaan didapatkan adanya lesi polimorfik berupa papul dan pustul dengan gambaran eritema di sekitarnya. Pasien juga mengeluhkan gatal pada sekitar lesi. 2 minggu yang lalu pasien sudah pernah berobat dan diberi antibiotik. Namun, keluhan belum membaik. Riwayat alergi (-). Apakah diagnosis 
